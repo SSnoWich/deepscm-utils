@@ -11,4 +11,5 @@ import "fmt"
 
 func UtilsTest() {
 	fmt.Println("deepscm-utils测试成功！")
+	fmt.Println("deepscm-utils v0.0.1 测试成功！")
 }
